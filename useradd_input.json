@@ -1,0 +1,9 @@
+{
+ "user1":{
+	"user":"sudo",
+	"command":"useradd",
+	"options":"-u",
+	"op_val":1024,
+	"arguments":"jsonuser"
+	}
+}
